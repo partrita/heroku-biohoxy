@@ -1,0 +1,1 @@
+Git does not support empty file directories, so you will have to create a file inside that directory as well.
