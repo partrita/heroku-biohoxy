@@ -6,8 +6,7 @@ def index(request):
 def about(request):
     return render(request, 'page/about.html',{})
 
-def blog(request):
-    return render(request, 'page/blog.html', {})
+# cc
 
 def team(request):
     return render(request, 'page/team.html', {})
